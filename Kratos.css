@@ -196,7 +196,7 @@ span{
     background-image: url(Mobile.png);
     background-size: 100% 100%;
     /*width: 100%;*/
-    width: 1350px;
+    width: 1340px;
     height: 2400px;
 }
 
@@ -234,7 +234,7 @@ span{
 
 footer {
     margin-top: -1px;
-    width: 1350px;
+    width: 1340px;
     height: 180px;
     background-color: black;
 }
