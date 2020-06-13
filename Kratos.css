@@ -4,7 +4,7 @@ body {
     padding: 0px;
 }
 
-{
+
 p {
      margin: 0px; 
     padding: 0px;
@@ -148,7 +148,7 @@ footer {
 .menubottom{
     display: none;
 }
-}
+
 
 @media screen and (max-device-width: 600px) {
     
@@ -196,16 +196,17 @@ span{
     background-image: url(Mobile.png);
     background-size: 100% 100%;
     /*width: 100%;*/
-    width: 100%;
-    height: 100vh;
+    width: 1350px;
+    height: 2400px;
 }
 
 #alltext{
     padding-left: 40px;
     padding-top: 700px;
     text-align: center;
-    width: 900px;
+    width: 500px;
     color: white;
+    white-space: pre;
 }
 
 .Ptext{
@@ -233,15 +234,15 @@ span{
 
 footer {
     margin-top: -1px;
-    width: 100%;
-    height: 120px;
+    width: 1350px;
+    height: 180px;
     background-color: black;
 }
 
 .footphoto{
-    width: 500px;
-    padding-top: 1px;
-    padding-left: 27%;
+    width: 700px;
+    padding-top: 5px;
+    padding-left: 25%;
 }
 
 
