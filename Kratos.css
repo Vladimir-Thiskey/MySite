@@ -4,7 +4,7 @@ body {
     padding: 0px;
 }
 
-
+{
 p {
      margin: 0px; 
     padding: 0px;
@@ -148,7 +148,7 @@ footer {
 .menubottom{
     display: none;
 }
-
+}
 
 @media screen and (max-device-width: 600px) {
     
